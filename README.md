@@ -1,6 +1,15 @@
+<div align="center">
+  
 # Template repository
 
 Description
+
+[**Show your support by giving a ⭐**](https://github.com/krzysztofzuraw/template-react/stargazers)
+
+<br/><hr/>
+
+
+</div>
 
 ## Installation
 
